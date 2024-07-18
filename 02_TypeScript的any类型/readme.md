@@ -1,0 +1,1 @@
+TypeScript 有两个“顶层类型”（any和unknown），但是“底层类型”只有never唯一一个。
